@@ -244,7 +244,7 @@ if(!isset($_SESSION['username'])){
       <span aria-hidden="true">&times;</span>
     </button>
     <div class="modal-header">
-      <h5 class="modal-title" id="exampleModalLabel">Detail Data Kndidat</h5>
+      <h5 class="modal-title" id="exampleModalLabel">Detail Data Kandidat</h5>
     </div>
     <div class="penampung-detail-kandidat">
 
